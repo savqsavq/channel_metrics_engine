@@ -1,3 +1,3 @@
 # channel_metrics_engine
-mock dataset builder for creator analytics work.
-generates synthetic video metrics to model ctr and engagement scores.
+data generation and analysis framework for creator performance metrics.  
+builds structured video-level datasets for modeling CTR, engagement, and retention patterns.
